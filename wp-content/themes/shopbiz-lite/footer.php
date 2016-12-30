@@ -26,7 +26,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-			<?php if( get_theme_mod( 'hide_copyright' ) !='false') { echo get_theme_mod('shopbiz_footer_copyright_setting',__('<p>&copy; Copyright 2016 by <a href="#">BMG Co.,Ltd</a>. All Rights Reserved. Powered by <a href=" https://wordpress.org/">Century</a></p>','')); } ?>
+			<?php if( get_theme_mod( 'hide_copyright' ) !='false') { echo get_theme_mod('shopbiz_footer_copyright_setting',__('<p>&copy; Copyright 2016 by <a href="#">BMG Co.,Ltd</a>. All Rights Reserved.</p>','')); } ?>
 		</div>
         <div class="col-md-6 text-right">
           <?php if(get_theme_mod('hide_footer_icon') != 'false' ) { ?>
@@ -52,5 +52,6 @@
 <a href="#" class="ti_scroll bounceInRight  animated"><i class="fa fa-angle-up"></i></a> 
 <!--/Scroll To Top-->
 <?php wp_footer(); ?>
+
 </body>
 </html>

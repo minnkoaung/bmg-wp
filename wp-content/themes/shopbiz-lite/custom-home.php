@@ -76,32 +76,32 @@ get_header(); ?>
                 <h2 class="page-header">Our Recent Projects</h2>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-6" style="margin-bottom: 20px;">
-                <a href="portfolio-item.html">
+                <a href="">
                     <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-6" style="margin-bottom: 20px;">
-                <a href="portfolio-item.html">
+                <a href="#">
                     <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-6" style="margin-bottom: 20px;">
-                <a href="portfolio-item.html">
+                <a href="#">
                     <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-6" style="margin-bottom: 20px;">
-                <a href="portfolio-item.html">
+                <a href="#">
                     <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-6" style="margin-bottom: 20px;">
-                <a href="portfolio-item.html">
+                <a href="#">
                     <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-6" style="margin-bottom: 20px;">
-                <a href="portfolio-item.html">
+                <a href="#">
                     <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
                 </a>
             </div>
@@ -123,9 +123,10 @@ get_header(); ?>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.</p>
                 </div>
                 <div class="col-md-4">
-                    <a class="btn btn-lg btn-success btn-block" href="+959973494973">Call to Action</a>
+                    <a class="btn btn-lg btn-success btn-block" href="tel:+959250280016" data-toggle="tooltip" data-placement="top" title="Plaese Call to 095063385"><i class="fa fa-phone-square" aria-hidden="true"></i> Call to Action</a>
                 </div>
              </div>
+           
             </div>
 
 
